@@ -1,0 +1,14 @@
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\bin\Debug\net8.0\ParamsExample.exe
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\bin\Debug\net8.0\ParamsExample.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\bin\Debug\net8.0\ParamsExample.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\bin\Debug\net8.0\ParamsExample.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\bin\Debug\net8.0\ParamsExample.pdb
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\refint\ParamsExample.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.pdb
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ParamsExample.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\ParamsExample\obj\Debug\net8.0\ref\ParamsExample.dll

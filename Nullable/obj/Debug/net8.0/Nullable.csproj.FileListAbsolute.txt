@@ -1,0 +1,14 @@
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\bin\Debug\net8.0\Nullable.exe
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\bin\Debug\net8.0\Nullable.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\bin\Debug\net8.0\Nullable.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\bin\Debug\net8.0\Nullable.pdb
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.pdb
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\.Net_Folder\Day1\Day3\Nullable\obj\Debug\net8.0\ref\Nullable.dll
