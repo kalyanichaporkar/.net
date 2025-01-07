@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverloadingHidingOverriding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1931e6b38b08c1ea03c180c8d6f3eca92b1c14f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverloadingHidingOverriding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverloadingHidingOverriding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

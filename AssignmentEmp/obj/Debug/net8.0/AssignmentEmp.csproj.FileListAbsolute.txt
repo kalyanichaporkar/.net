@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\bin\Debug\net8.0\AssignmentEmp.exe
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\bin\Debug\net8.0\AssignmentEmp.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\bin\Debug\net8.0\AssignmentEmp.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\bin\Debug\net8.0\AssignmentEmp.dll
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\bin\Debug\net8.0\AssignmentEmp.pdb
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.sourcelink.json
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.dll
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\refint\AssignmentEmp.dll
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.pdb
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\AssignmentEmp.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\DotNet\.net\AssignmentEmp\obj\Debug\net8.0\ref\AssignmentEmp.dll
